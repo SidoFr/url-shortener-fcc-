@@ -1,0 +1,29 @@
+{
+  "name": "url-shortener-fcc-",
+  "version": "1.0.0",
+  "description": "fcc backend project 3_glitch",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1",
+    "nodemon": "^1.17.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon ./start.js",
+    "prod": "node ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidoFr/url-shortener-fcc-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidoFr/url-shortener-fcc-/issues"
+  },
+  "homepage": "https://github.com/SidoFr/url-shortener-fcc-#readme"
+}
